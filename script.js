@@ -206,7 +206,7 @@ function loadProducts() {
             <h3>${product.name}</h3>
             <p class="product-price">${product.price}</p>
             <div class="product-buttons">
-                <button class="btn btn-primary" onclick="window.location.href='tel:+919540923786'">Get Best Price</button>
+                <button class="btn btn-primary" onclick="window.location.href='tel:+919717569033'">Get Best Price</button>
             </div>
         `;
         container.appendChild(productCard);
